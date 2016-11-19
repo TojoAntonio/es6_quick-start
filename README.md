@@ -1,4 +1,6 @@
 # Setup
+Install NodeJS
+
 Install dependencies
 ```
 npm install
